@@ -188,7 +188,6 @@ Well done! Try logging in as several different users and seeing the different fr
 tracking our user's session on the back-end.
 
 ## Step 5 (Black Diamond): Make it a bit more interactive
-
 * Allow users to add or remove friends.
 * Add a settings view specific to the current user, where they can change their name or password.
 
